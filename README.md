@@ -31,4 +31,3 @@
 26. Perform Safe Shutdown
 27. Verify Safe Artifact Removal
 
-## Task 2: Complete Operation Schemas
